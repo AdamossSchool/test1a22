@@ -8,3 +8,4 @@ test2
 
 
 https://learngitbranching.js.org/?locale=pl
+https://git-school.github.io/visualizing-git/#free-remote
