@@ -7,8 +7,28 @@
 </head>
 <body>
     <h1>Strona test</h1>
-<button class="przycisk">Przycisk</button>
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. In fuga dolores illo consequuntur ipsam illum aliquam aperiam eligendi minima dolorum!</h2>
+    <div class="container">
+<button id="przycisk">Przycisk</button>
+</div>
 
-    <script></script>
+<script>
+let button = document.getElementById('przycisk');
+addEventListener('click', function(){
+
+var randomcolor = colors[Math.floor(Math.random()*colors.lenght)]
+
+let container = document.getElementById('container');
+container.style.background = randomcolor;
+
+})
+
+
+
+
+
+</script>
+
+    
 </body>
 </html>
