@@ -18,3 +18,9 @@ h2{
     color:#070606d0;
     background-color: #cadada;
 }
+
+input{
+    border-radius: 2px;
+    background-color: #af9e88;
+    color: #413c37bb
+}
