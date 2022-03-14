@@ -1,0 +1,19 @@
+body{
+    background-color: #ebebbe;
+    font-size: 20px;
+
+}
+
+h1{
+    color: #635f4de7;
+    margin-top: 5px;
+}
+
+.przycisk{
+    border-style:dotted;
+    border-width: 2px;
+}
+
+h2{
+    color:black
+}
